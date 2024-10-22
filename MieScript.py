@@ -12,7 +12,7 @@ while True:
  terminnal = input('/')
  if terminnal == ('help'):
   print('Comands for MieScript ShoeBox')
-  print('C/notebook for notebook.')
+  print('/notebook for notebook.')
   print('/help for help')
   print('/calculator for calculator')
   print('/magic8ball for Magic 8 Ball')
